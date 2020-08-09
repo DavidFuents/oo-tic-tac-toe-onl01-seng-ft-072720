@@ -106,4 +106,6 @@ class TicTacToe
     if won?
       winner
     elsif draw? 
+      puts "Draw"
+    end
 end
