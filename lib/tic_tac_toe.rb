@@ -106,7 +106,7 @@ class TicTacToe
     if won?
       winner
     elsif draw? 
-      puts "Draw"
+      puts "Cat's Game!"
     end
   end
 end
